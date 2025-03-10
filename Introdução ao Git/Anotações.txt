@@ -1,3 +1,6 @@
+O GitBash é um terminal estendido para otimizar o uso do Git
+
+
 PRIMEIROS COMANDOS GIT - parte 4 da aula
 
 - Iniciar o GIT
