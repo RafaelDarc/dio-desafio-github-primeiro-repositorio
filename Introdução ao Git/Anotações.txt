@@ -1,0 +1,18 @@
+PRIMEIROS COMANDOS GIT - parte 4 da aula
+
+- Iniciar o GIT
+
+- Iniciar o versionamento
+
+-Criar um commit
+
+
+
+--git init
+
+--git add
+
+--git commit
+
+
+flag "-a" mostra arquivos ocultos
